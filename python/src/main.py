@@ -1,5 +1,5 @@
 def main():
     print("Sistema iniciado com sucesso!")
 
-if __name__ == "___main___":
+if __name__ == "__main__":
     main()
